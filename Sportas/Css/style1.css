@@ -1,0 +1,28 @@
+body{
+background-image: url("images/15.jpg");
+background-size: auto;
+}
+.Dvitaskiai{
+  background-image: url("images/420.jpg");
+  background-size: cover;
+  margin: 50px;
+  border: 3px solid red;
+  text-align: center;
+}
+
+
+.Tritaskiai{
+  background-image: url("images/420.jpg");
+  background-size: cover;
+  background-color: WhiteSmoke;
+  margin: 50px;
+  border: 3px solid red;
+  text-align: center;
+}
+
+h1 {
+
+    text-align:center;
+    padding-top: 3%;
+
+}
